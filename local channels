@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="Kapamilya Channel (option 1)" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18113602/kapamilya-channel-logo.png" group-title="(no group)",Kapamilya Channel
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/829dbdfe0b57013.m3u8
+#EXTINF:-1 tvg-id="Kapamilya Channel" tvg-name="Kapamilya Online Live" tvg-logo="https://sa.kapamilya.com/absnews/abscbnnews/media/2020/business/07/31/kapamilya-online-live.jpg" group-title="(no group)",Kapamilya Online Live
+https://youtube.com/channel/UCstEtN0pgOmCf02EdXsGChw/live
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TFC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/1200px-The_Filipino_Channel_2011_logo.svg.png" group-title="(no group)",TFC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/882598ca274e161.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cinemo" tvg-logo="http://astig.ph/wp-content/uploads/2015/03/4-CineMo-logo.jpg" group-title="(no group)",Cinemo
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/3254f236ad3e872.m3u8
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TV5_%28ABC5%29_Logo.svg/1024px-TV5_%28ABC5%29_Logo.svg.png" group-title="(no group)",TV5
+http://103.11.112.84:1935/live2/smil:tv5.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Cinema One" tvg-name="Cinema One" tvg-logo="http://www.canadianinquirer.net/wp-content/uploads/2014/08/Cinema_One_2013_logo.png" group-title="(no group)",Cinema One
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/8b50f0987797f7d.m3u8
+#EXTINF:-1 tvg-id="GMA 7" tvg-name="GMA" tvg-logo="https://www.pngkey.com/png/full/136-1361194_gma-7-logo-gma-network.png" group-title="(no group)",GMA
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/99.m3u8
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/GTV_Philippines_Logo.png" group-title="(no group)",GTV
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/107.m3u8
+#EXTINF:-1 tvg-id="pbo" tvg-name="PBO" tvg-logo="https://www.clipartmax.com/png/middle/111-1111324_pbo-logo-pbo-pinoy-box-office.png" group-title="(no group)",PBO
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/110.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CNN PH" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/18101212/cnn-philippines-logo-300x300.png" group-title="(no group)",CNN PH
+https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DZMM Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/DZMM_TeleRadyo_2014.svg/1200px-DZMM_TeleRadyo_2014.svg.png" group-title="(no group)",DZMM Teleradyo
+#EXTVLCOPT:http-referrer=https://tfc.tv/
+#EXTVLCOPT:http-user-agent=Mozilla
+https://tfcmsl.akamaized.net/hls/live/2014654/dzmm/master.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4f/One_Sports_Philippines_logo.svg/1200px-One_Sports_Philippines_logo.svg.png" group-title="(no group)",One Sports
+http://103.11.112.28:1935/live2/smil:onesports.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV" tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/09/07200017/ptv-logo.png" group-title="(no group)",PTV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Philippines/0dbc79b42310cd7.m3u8#EXTM3U
